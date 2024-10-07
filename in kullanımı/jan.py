@@ -1,0 +1,1 @@
+print('Jan' in '01 Jan 1838')
